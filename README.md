@@ -39,12 +39,11 @@ Luego definimos las expresiones algebraicas que nos permiten calcular cada uno d
 Mostramos la solución y la graficamos con ayuda del teach.
 
 <p align="center"><img src="https://i.postimg.cc/qMfyXhMh/tres.png"</p>
-  
-<p align="center"><img src="https://i.postimg.cc/5yzvW1p2/cuatro.png"</p>  
-  
+    
 Obteniendo la siguiente representación.
-  
-<p align="center"><img src="https://i.postimg.cc/Qdh7w27j/cinco.png"</p>
+ 
+<p align="center"><img src="https://i.postimg.cc/5yzvW1p2/cuatro.png"</p>  
+
 
 
 ### Análisis:
@@ -56,6 +55,11 @@ Sabiendo que el robot Phantom X posee 4 GDL, de los cuales 3 corresponden a posi
 ## ROS - Aplicación de Pick and place:
 ### Restricciones:
 • Las trayectorias deberán ser tipo pick and place, esto es, recorridos en forma rectangular, movimientos verticales para subir y bajar, y movimiento horizontal para realizar desplazamientos.
+  
+<p align="center"><img src="https://i.postimg.cc/Qdh7w27j/cinco.png"</p>
+
+  El video del sistema funcionando puede apreciarse en el siguiente enlace:
+  
 
 ## ROS - Aplicación de movimiento en el espacio de la tarea:
 ## Conclusiones
