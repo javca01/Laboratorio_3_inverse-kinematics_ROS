@@ -59,7 +59,7 @@ Sabiendo que el robot Phantom X posee 4 GDL, de los cuales 3 corresponden a posi
 <p align="center"><img src="https://i.postimg.cc/Qdh7w27j/cinco.png"</p>
 
   El video del sistema funcionando puede apreciarse en el siguiente enlace:
-  
+  https://youtu.be/lk6PTTEWXIw
 
 ## ROS - Aplicación de movimiento en el espacio de la tarea:
 ## Conclusiones
