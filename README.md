@@ -28,9 +28,11 @@ El problema cinemático inverso consiste en determinar la configuración articul
 
 El modelo geométrico construido se muestra a continuación.
 
-<p align="center"><img src="https://i.postimg.cc/vm4Jy76t/system-geometry.png"</p>
-  
 <p align="center"><img src="https://i.postimg.cc/vBVD46CW/system-geometry-2.png"</p>
+  
+<p align="center"><img src="https://i.postimg.cc/jSgpB3Cj/equations-system.png"</p>
+  
+
 
 
 ## Modelo de cinemática inversa del manipulador en MATLAB:
